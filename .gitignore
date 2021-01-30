@@ -21,3 +21,7 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+Project2/save/*
+Project2/save/file0.rmmzsave
+Project2/save/file0.rmmzsave
+Project2/save/global.rmmzsave
