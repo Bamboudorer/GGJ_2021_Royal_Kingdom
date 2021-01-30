@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":312.5}
+{"id":1,"expanded":true,"name":"Néphilis World","order":1,"parentId":0,"scrollX":619,"scrollY":352},
+{"id":2,"expanded":false,"name":"Palais de Néphilis","order":2,"parentId":1,"scrollX":619,"scrollY":368}
 ]
