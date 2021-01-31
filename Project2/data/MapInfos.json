@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":true,"name":"Mine","order":8,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333},
 {"id":9,"expanded":false,"name":"Volcano","order":9,"parentId":8,"scrollX":1224,"scrollY":924},
 {"id":10,"expanded":true,"name":"Forêt des Esprits","order":10,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1649.3333333333333},
-{"id":11,"expanded":false,"name":"Caverne de pierre","order":11,"parentId":10,"scrollX":1081.3333333333333,"scrollY":1161.3333333333333}
+{"id":11,"expanded":false,"name":"Caverne de pierre","order":11,"parentId":10,"scrollX":1081.3333333333333,"scrollY":614.6666666666666}
 ]
